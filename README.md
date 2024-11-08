@@ -13,7 +13,7 @@ This project automates the testing of the Fixer API's `/latest` endpoint using T
 
 1. Clone the repository:
 ```shell
-git clone <repository-url>
+git clone https://github.com/NikitaRadzkov/apilayer.git
 cd project-root
 ```
 
