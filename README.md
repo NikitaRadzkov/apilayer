@@ -14,7 +14,7 @@ This project automates the testing of the Fixer API's `/latest` endpoint using T
 1. Clone the repository:
 ```shell
 git clone https://github.com/NikitaRadzkov/apilayer.git
-cd project-root
+cd apilayer
 ```
 
 2. Install dependencies:
